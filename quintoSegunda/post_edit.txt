@@ -1,0 +1,3 @@
+{% extends 'quintoSegunda' %}
+{% block content %}
+<h1> new post
